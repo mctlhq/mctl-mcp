@@ -2,6 +2,8 @@
 
 **mctl** is an AI-native control plane for Kubernetes and GitOps. It exposes 30+ tools for managing services, provisioning databases, and viewing logs through natural language.
 
+[![mctl MCP server](https://glama.ai/mcp/servers/mctlhq/mctl-mcp/badges/card.svg)](https://glama.ai/mcp/servers/mctlhq/mctl-mcp)
+
 **Official Website:** [https://mctl.ai/mcp](https://mctl.ai/mcp)
 
 ## Overview
