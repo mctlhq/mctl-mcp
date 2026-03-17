@@ -1,0 +1,9 @@
+{
+  "name": "mctl",
+  "description": "AI-native control plane for Kubernetes and GitOps.",
+  "repository": "https://github.com/mctlhq/mctl-mcp",
+  "icon": "https://mctl.ai/favicon.ico",
+  "homepage": "https://mctl.ai/mcp",
+  "keywords": ["kubernetes", "gitops", "devops", "cloud"],
+  "license": "MIT"
+}
