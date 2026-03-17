@@ -1,0 +1,16 @@
+{
+  "name": "@mctlhq/mctl-mcp",
+  "version": "1.0.0",
+  "description": "AI-native platform for Kubernetes management and automated GitOps.",
+  "main": "index.js",
+  "type": "module",
+  "bin": {
+    "mctl-mcp": "./index.js"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.0.1"
+  }
+}
