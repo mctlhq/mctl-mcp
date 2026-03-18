@@ -1,6 +1,6 @@
 {
   "name": "@mctlhq/mctl-mcp",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "AI-native platform for Kubernetes management and automated GitOps.",
   "main": "index.js",
   "type": "module",
@@ -11,6 +11,10 @@
     "start": "node index.js"
   },
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mctlhq/mctl-mcp.git"
+  },
   "dependencies": {
     "@modelcontextprotocol/sdk": "^1.0.1",
     "eventsource": "^4.1.0"
