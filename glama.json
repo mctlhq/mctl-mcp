@@ -1,23 +1,7 @@
 {
   "$schema": "https://glama.ai/mcp/schemas/server.json",
-  "name": "mctl",
-  "version": "1.0.0",
-  "description": "AI-native control plane for Kubernetes and GitOps.",
-  "repository": "https://github.com/mctlhq/mctl-mcp",
-  "icon": "https://mctl.ai/favicon.ico",
-  "homepage": "https://mctl.ai/mcp",
-  "keywords": [
-    "kubernetes",
-    "gitops",
-    "devops",
-    "cloud"
-  ],
-  "license": "MIT",
   "maintainers": [
-    "mctlhq"
-  ],
-  "type": "mcp_server",
-  "capabilities": {
-    "tools": true
-  }
+    "mctlhq",
+    "mashkovd"
+  ]
 }
